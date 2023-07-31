@@ -83,7 +83,7 @@ This result will be rendered in the user form as follows:
 
 <br/>
 
-### View Conversions Log
+## View Conversions Log
  
 Every conversion request is saved in an internal log of changes and It is possible to view the selected currency behaviour of the last 30 days (previous to the input date) in a data plot. This will be automatically displayed in a spreadsheet when the user clicks 'Plot Last 30 Days' button. 
 
