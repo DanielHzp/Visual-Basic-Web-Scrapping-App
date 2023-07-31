@@ -42,7 +42,7 @@ Based on the input date, a visual basic method is executed to fetch the currency
 
   
 <br/>
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/89708e75-4456-4375-9ae9-7c8dee3fe32e" width="700" height="400">
+<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/89708e75-4456-4375-9ae9-7c8dee3fe32e" width="800" height="400">
 
 <br/>
 
@@ -78,6 +78,50 @@ This result will be rendered in the user form as follows:
 
 
 <img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/821ac86e-b099-4aaf-8472-d56943fd6279" width="700" height="450">
+
+<br/>
+
+<br/>
+
+### View Conversions Log
+ 
+Every conversion request is saved in an internal log of changes and It is possible to view the selected currency behaviour of the last 30 days (previous to the input date) in a data plot. This will be automatically displayed in a spreadsheet when the user clicks 'Plot Last 30 Days' button. 
+
+<br/>
+
+ i.e Using sample data for USD - GBP conversion behaviour over time:
+ 
+<br/>
+
+<br/>
+
+
+<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/a347e90f-1614-4649-ad09-d191f70e945c" width="700" height="450">
+
+<br/>
+
+
+<br/>
+
+<br/>
+
+In order to dynamically populate this plot with different conversions, a query connection is created recursively per daily rate. The following syntax partially illustrates a visual basic method that extracts the daily rates and iterates over the last 30 days estimating the conversions:
+
+<br/>
+
+<br/>
+
+
+
+![image](https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/28287c3d-19fb-4833-bf29-0544f38cf9b0)
+
+<br/>
+
+<br/>
+
+
+In order to handle any connection runtime error, a try-catch block launches display messages if needed with an 'On Eror GoTo' form command. However, some dates may not be available if the website provider has internal constraints or fails to update the conversion metadata. In this case, the conversion button will not work and a error pop-up window will alert the user.
+
 
 
 
