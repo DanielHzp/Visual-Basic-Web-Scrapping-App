@@ -132,11 +132,10 @@ In order to handle any connection runtime error, a try-catch block launches disp
 
 Import the .bas files to a VB/VBA Excel developer editor (module1 and RibbonX customization are optional) and add a macro button to execute the user form.
 Add three worksheets without display name which will be automatically updated when the data is pulled from the XE website.
-
-<br/>
-
-<br/>
 After adding the .bas files to the project, import the .frm file and configure the display attributes in the form editor. The following parameters specify the display default settings:
+
+<br/>
+
 https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/bd3598036fad5d88f83ff27b5a33edb2f15f9865/ConverterUserForm.frm#L1-L17
 
 
