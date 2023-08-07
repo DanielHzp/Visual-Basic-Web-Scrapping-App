@@ -122,7 +122,25 @@ In order to dynamically populate this plot with different conversions, a query c
 
 In order to handle any connection runtime error, a try-catch block launches display messages if needed with an 'On Eror GoTo' form command. However, some dates may not be available if the website provider has internal constraints or fails to update the conversion metadata. In this case, the conversion button will not work and a error pop-up window will alert the user.
 
+<br/>
+
+<br/>
+
 ## .
+
+### Usage
+
+Import the .bas files to a VB/VBA Excel developer editor (module1 and RibbonX customization are optional) and add a macro button to execute the user form.
+Add three worksheets without display name which will be automatically updated when the data is pulled from the XE website.
+
+<br/>
+
+<br/>
+
+
+
+
+
 
 
 
