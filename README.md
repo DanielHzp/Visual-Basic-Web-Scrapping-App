@@ -136,8 +136,8 @@ Add three worksheets without display name which will be automatically updated wh
 <br/>
 
 <br/>
-
-
+After adding the .bas files to the project, import the .frm file and configure the display attributes in the form editor. The following parameters specify the display default settings:
+https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/bd3598036fad5d88f83ff27b5a33edb2f15f9865/ConverterUserForm.frm#L1-L17
 
 
 
