@@ -137,7 +137,7 @@ Add three worksheets without display name which will be automatically updated wh
 
 <br/>
 
-https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/9c285c188f6c9657cc517e40098bb40259125976/ConverterUserForm.frm#L1C1-L17C29
+
 
 
 
