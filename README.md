@@ -42,7 +42,8 @@ Based on the input date, a visual basic method is executed to fetch the currency
 
   
 <br/>
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/89708e75-4456-4375-9ae9-7c8dee3fe32e" width="800" height="400">
+
+https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/0e43f181e91b34d8fdae339cd835345a942eb44f/On%20Click%20Actions/UpdateCurrencyRates.bas#L30-L72
 
 <br/>
 
