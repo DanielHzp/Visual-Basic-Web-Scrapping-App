@@ -115,7 +115,7 @@ In order to dynamically populate this plot with different conversions, a query c
 
 
 
-![image](https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/28287c3d-19fb-4833-bf29-0544f38cf9b0)
+https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/6bf27332d3d84e9708776ec422d35b87cfd21c24/On%20Click%20Actions/PlotCurrencyRateBehavior.bas#L25-L90
 
 <br/>
 
