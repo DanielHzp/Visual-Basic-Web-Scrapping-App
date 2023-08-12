@@ -68,7 +68,8 @@ The conversion output will be displayed in the 'Converted Amount' field when the
 
 <br/>
 
-![image](https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/51d36532-f7bb-44fa-afb1-7c56d564e73f)
+
+https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/daa3b1fa0cc2139f30c07bfe4417c5cab9842239/On%20Click%20Actions/ConvertCurrency.bas#L87-L114
 
 <br/>
 
