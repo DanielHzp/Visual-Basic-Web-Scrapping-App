@@ -4,7 +4,7 @@ This is a desktop app developed with Visual Basic for Applications. The purpose 
 
 <br/>
 
-<img src="Images/XEwebservice.png" width="700" height="400">
+<img src="Images/XEwebService.png" width="700" height="400">
 
 <br/>
 
@@ -22,11 +22,11 @@ When the user form is loaded the conversion currencies are updated automatically
 
 <br/>
 
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/a80ebf31-6f2c-4011-bac1-f29a9fd62ae4" width="700" height="450">
+<img src="Images/DropdownConvert.png" width="700" height="450">
 
 
 
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/5ba3c13c-4273-43dc-991d-0250ad4fe270" width="700" height="450">
+<img src="Images/DropdownConvertTo.png" width="700" height="450">
 
 
 
@@ -54,7 +54,7 @@ i.e
 
 <br/>
 
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/9a6a7bf2-b45e-4bc0-af75-aa263a4417ef" width="700" height="450">
+<img src="Images/ThrowValAlert.png" width="700" height="450">
 
 <br/>
 
@@ -77,7 +77,7 @@ This result will be rendered in the user form as follows:
 <br/>
 
 
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/821ac86e-b099-4aaf-8472-d56943fd6279" width="700" height="450">
+<img src="Images/DataRendered.png" width="700" height="450">
 
 <br/>
 
@@ -96,7 +96,7 @@ Every conversion request is saved in an internal log of changes and It is possib
 <br/>
 
 
-<img src="https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/assets/124480168/a347e90f-1614-4649-ad09-d191f70e945c" width="700" height="450">
+<img src="Images/ConversionLog.png" width="700" height="450">
 
 <br/>
 
@@ -141,7 +141,7 @@ https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/bd3598036fad5d
 
 
 
-https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/main/Images/ConverterInterfaceLayout.JPG
+
 
 
 
