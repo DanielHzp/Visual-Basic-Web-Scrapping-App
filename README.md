@@ -141,7 +141,7 @@ https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/bd3598036fad5d
 
 
 
-Images/ConverterInterfaceLayout.JPG
+https://github.com/DanielHzp/WebScrapingCurrencyConverter-Vb/blob/main/Images/ConverterInterfaceLayout.JPG
 
 
 
