@@ -1,4 +1,4 @@
-# Currency converter
+# Currency Converter
 
 This is a desktop app developed with Visual Basic for Applications. The purpose of the project was to create a currency converter that works with real-time data fetched from the following website (currency API): https://www.xe.com/currencytables/?from=USD&date=2021-07-14 
 
